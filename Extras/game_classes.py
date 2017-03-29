@@ -1,3 +1,9 @@
+"""
+Basic game format.
+Making enemy class 
+OOP in python
+"""
+
 class Enemy:
 	life = 3
 
