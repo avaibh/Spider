@@ -1,7 +1,7 @@
 """
 Basic game format.
 Making enemy class 
-OOP in python
+Onject Oriented Programming in python
 """
 
 class Enemy:
