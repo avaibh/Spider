@@ -33,5 +33,5 @@ def word_counter(new_world_list):
 	for key,value in sorted(word_count.items(), key = operator.itemgetter(1)):
 		print(key, value)
 
-url = input('Enter URL') #enter url
+url = input('Enter URL')
 start(url)
